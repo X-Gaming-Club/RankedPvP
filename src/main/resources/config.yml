@@ -1,11 +1,11 @@
 database:
-  host: 13.235.98.89
-  port: 3306
-  name: s7824_xgaming
-  username: u7824_4DzU07UIBk
-  password: A^Zfc9Gdg.FdKoLm6LXHATJy
+  host: 
+  port: 
+  name: 
+  username: 
+  password: 
 
 
 discord:
-  token: MTI1NTIyODEyNTMzNjQ0MDkzNA.GXo0Tv.7U39OR0Pqk957NEw6zomIb6eplzLf_IZVdj-bQ
-  server_id: 1150079405129994261
+  token: 
+  server_id: 
