@@ -1,0 +1,10 @@
+org\dabhiru\tournamentpvp\PlayerActivityListener.class
+org\dabhiru\tournamentpvp\DiscordManager$DailyMessageTask.class
+org\dabhiru\tournamentpvp\DiscordManager.class
+org\dabhiru\tournamentpvp\LinkCommand.class
+org\dabhiru\tournamentpvp\RankManager$PrefixWeight.class
+org\dabhiru\tournamentpvp\RankManager.class
+org\dabhiru\tournamentpvp\Tournamentpvp.class
+org\dabhiru\tournamentpvp\PlayerActivityListener$1.class
+org\dabhiru\tournamentpvp\PlayerActivityListener$2.class
+org\dabhiru\tournamentpvp\DatabaseManager.class
